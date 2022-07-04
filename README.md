@@ -7,3 +7,4 @@ This is a server with registration by JWT token and account activation via a lin
 - Express
 - JWT
 - Mongodb
+- Nodemailer
